@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
-     "lib/websolr-sunspot4heroku.rb",
+     "lib/websolr-sunspot4heroku-cis.rb",
      "websolr-sunspot4heroku-cis.gemspec"
   ]
   
