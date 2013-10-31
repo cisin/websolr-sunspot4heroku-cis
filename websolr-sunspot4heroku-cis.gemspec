@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/websolr-sunspot4heroku.rb",
-     "websolr-sunspot4heroku.gemspec"
+     "websolr-sunspot4heroku-cis.gemspec"
   ]
   
   s.rdoc_options = ["--charset=UTF-8"]
